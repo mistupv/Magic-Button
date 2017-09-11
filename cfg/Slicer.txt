@@ -1,0 +1,1 @@
+e-Knife @ /Users/Fenix/Desktop/Distribution/e-Knife/lastversion @ java -jar eknife.jar -ln Erlang {ip} {op} {li} {na} {oc} @ ip @ op @ li @ na @ oc @ le @ sl @ sc @ el @ ec @ so @ eo @ true @ false @ false @ false @ false
